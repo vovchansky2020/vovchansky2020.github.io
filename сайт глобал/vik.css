@@ -1,0 +1,20 @@
+img{
+	height:70%;
+	
+	
+}
+#tp{
+	font-size:20px;
+	color: black;
+	
+	
+	
+}
+h1 {
+  font-size: 50px;
+  display:inline-block;
+  background: linear-gradient(45deg,orange,red);
+  text-align: center;
+  color: green;
+  padding-left:80%;
+}
